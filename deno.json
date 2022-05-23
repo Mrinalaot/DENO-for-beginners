@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "checkJs": true,
+      "noImplicitReturns": false,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noUncheckedIndexedAccess": true
+    }
+  }
